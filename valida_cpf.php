@@ -1,3 +1,5 @@
+<?php 
+
  if(empty($cpf)) {
         return false;
     }
@@ -39,3 +41,4 @@
  
         return true;
     }
+ ?>
